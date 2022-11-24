@@ -1,0 +1,80 @@
+body{	
+	background-image: url('pictures/alter-back.png');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+	padding: 2%;
+
+	text-align: center;
+	font-family: sans-serif;
+	color: white;
+
+	border: 5px rebeccapurple dotted ;
+	border-radius: 40px;
+	border-spacing: 40px;
+	border-width: 80%;
+}
+h1 {
+	background-color: rgba(0, 0, 0, 0.60);
+	border: double 5px purple;
+	border-radius: 30px;
+	border-width: 50%;
+
+}
+h2 {
+	background-color: rgba(0, 0, 0, 0.45);
+	border: double 4px rebeccapurple;
+	border-radius: 40px;
+	border-width: 50%;
+}
+h3 {
+	background-color: rgba(0, 0, 0, 0.35₹);
+	border: double 3px rebeccapurple;
+	border-radius: 40px;
+	border-width: 50%;
+}
+p{	
+	font-family: open-sans: sans-serif;
+	font-weight: bold;
+}
+pre{
+	font-family: monospace;
+	font-weight: ;
+	text-align: left;
+
+}
+.inner_bor{
+	backdrop-filter: blur(4px);
+	border: solid blueviolet 3px;
+	border-radius: 40px;
+	padding-right: 12%;
+	padding-left: 12%;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-color: rgba(0, 0, 0, 0.15);
+	gap: 20px;
+
+}
+img{
+	border: solid rgba(0, 0, 0, 0.85) 3px;
+}
+hr{
+	width: 75%;
+	height: 5px;
+	border-spacing: 5px;
+	background-color: rgba(0, 0, 0,0.75);
+	border-color: transparent;
+	border-radius: 50px;
+}
+button{
+	background-color: rgba(0, 0, 0, 0.75);
+	border-color: transparent;
+
+	height: 40px;
+
+	border: solid purple 3px;
+	border-radius: 30px;
+}
+a{
+	font-weight: bold;
+}
